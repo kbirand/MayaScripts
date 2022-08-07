@@ -1,0 +1,183 @@
+setAttr "upperarm_l.rotateX" 1;
+setAttr "upperarm_l.rotateY" -9;
+setAttr "upperarm_l .rotateZ" -1;
+
+setAttr "upperarm_r.rotateX" 1;
+setAttr "upperarm_r.rotateY" -9
+setAttr "upperarm_r .rotateZ" -1
+
+setAttr "lowerarm_l.rotateX" 0;
+setAttr "lowerarm_l.rotateY" 0;
+setAttr "lowerarm_l .rotateZ" 0;
+
+setAttr "lowerarm_r.rotateX" 0;
+setAttr "lowerarm_r.rotateY" 0;
+setAttr "lowerarm_r .rotateZ" 0;
+
+setAttr "hand_r.rotateX" -90;
+setAttr "hand_r.rotateY" 0;
+setAttr "hand_r .rotateZ" 0;
+
+setAttr "hand_r.rotateX" -90;
+setAttr "hand_r.rotateY" 0;
+setAttr "hand_r .rotateZ" 0;
+
+setAttr "middle_metacarpal_l.rotateX" 0;
+setAttr "middle_metacarpal_l.rotateY" 0;
+setAttr "middle_metacarpal_l.rotateZ" 0;
+
+setAttr "middle_01_l.rotateX" 0;
+setAttr "middle_01_l.rotateY" 0;
+setAttr "middle_01_l.rotateZ" 0;
+
+setAttr "middle_02_l.rotateX" 0;
+setAttr "middle_02_l.rotateY" 0;
+setAttr "middle_02_l.rotateZ" 0;
+
+setAttr "middle_03_l.rotateX" 0;
+setAttr "middle_03_l.rotateY" 0;
+setAttr "middle_03_l.rotateZ" 0;
+
+setAttr "pinky_metacarpal_l.rotateX" 0;
+setAttr "pinky_metacarpal_l.rotateY" 0;
+setAttr "pinky_metacarpal_l.rotateZ" 0;
+
+setAttr "pinky_01_l.rotateX" 0;
+setAttr "pinky_01_l.rotateY" 0;
+setAttr "pinky_01_l.rotateZ" 0;
+
+setAttr "pinky_02_l.rotateX" 0;
+setAttr "pinky_02_l.rotateY" 0;
+setAttr "pinky_02_l.rotateZ" 0;
+
+setAttr "pinky_03_l.rotateX" 0;
+setAttr "pinky_03_l.rotateY" 0;
+setAttr "pinky_03_l.rotateZ" 0;
+
+setAttr "ring_metacarpal_l.rotateX" 0;
+setAttr "ring_metacarpal_l.rotateY" 0;
+setAttr "ring_metacarpal_l.rotateZ" 0;
+
+setAttr "ring_01_l.rotateX" 0;
+setAttr "ring_01_l.rotateY" 0;
+setAttr "ring_01_l.rotateZ" 0;
+
+setAttr "ring_02_l.rotateX" 0;
+setAttr "ring_02_l.rotateY" 0;
+setAttr "ring_02_l.rotateZ" 0;
+
+setAttr "ring_03_l.rotateX" 0;
+setAttr "ring_03_l.rotateY" 0;
+setAttr "ring_03_l.rotateZ" 0;
+
+setAttr "index_metacarpal_l.rotateX" 0;
+setAttr "index_metacarpal_l.rotateY" 0;
+setAttr "index_metacarpal_l.rotateZ" 0;
+
+setAttr "index_01_l.rotateX" 0;
+setAttr "index_01_l.rotateY" 0;
+setAttr "index_01_l.rotateZ" 0;
+
+setAttr "index_02_l.rotateX" 0;
+setAttr "index_02_l.rotateY" 0;
+setAttr "index_02_l.rotateZ" 0;
+
+setAttr "index_03_l.rotateX" 0;
+setAttr "index_03_l.rotateY" 0;
+setAttr "index_03_l.rotateZ" 0;
+
+setAttr "thumb_01_l.rotateX" 0;
+setAttr "thumb_01_l.rotateY" 0;
+setAttr "thumb_01_l.rotateZ" 0;
+
+setAttr "thumb_02_l.rotateX" 0;
+setAttr "thumb_02_l.rotateY" 0;
+setAttr "thumb_02_l.rotateZ" 0;
+
+setAttr "thumb_03_l.rotateX" 0;
+setAttr "thumb_03_l.rotateY" 0;
+setAttr "thumb_03_l.rotateZ" 0;
+
+setAttr "middle_metacarpal_r.rotateX" 0;
+setAttr "middle_metacarpal_r.rotateY" 0;
+setAttr "middle_metacarpal_r.rotateZ" 0;
+
+setAttr "middle_01_r.rotateX" 0;
+setAttr "middle_01_r.rotateY" 0;
+setAttr "middle_01_r.rotateZ" 0;
+
+setAttr "middle_02_r.rotateX" 0;
+setAttr "middle_02_r.rotateY" 0;
+setAttr "middle_02_r.rotateZ" 0;
+
+setAttr "middle_03_r.rotateX" 0;
+setAttr "middle_03_r.rotateY" 0;
+setAttr "middle_03_r.rotateZ" 0;
+
+setAttr "pinky_metacarpal_r.rotateX" 0;
+setAttr "pinky_metacarpal_r.rotateY" 0;
+setAttr "pinky_metacarpal_r.rotateZ" 0;
+
+setAttr "pinky_01_r.rotateX" 0;
+setAttr "pinky_01_r.rotateY" 0;
+setAttr "pinky_01_r.rotateZ" 0;
+
+setAttr "pinky_02_r.rotateX" 0;
+setAttr "pinky_02_r.rotateY" 0;
+setAttr "pinky_02_r.rotateZ" 0;
+
+setAttr "pinky_03_r.rotateX" 0;
+setAttr "pinky_03_r.rotateY" 0;
+setAttr "pinky_03_r.rotateZ" 0;
+
+setAttr "ring_metacarpal_r.rotateX" 0;
+setAttr "ring_metacarpal_r.rotateY" 0;
+setAttr "ring_metacarpal_r.rotateZ" 0;
+
+setAttr "ring_01_r.rotateX" 0;
+setAttr "ring_01_r.rotateY" 0;
+setAttr "ring_01_r.rotateZ" 0;
+
+setAttr "ring_02_r.rotateX" 0;
+setAttr "ring_02_r.rotateY" 0;
+setAttr "ring_02_r.rotateZ" 0;
+
+setAttr "ring_03_r.rotateX" 0;
+setAttr "ring_03_r.rotateY" 0;
+setAttr "ring_03_r.rotateZ" 0;
+
+setAttr "index_metacarpal_r.rotateX" 0;
+setAttr "index_metacarpal_r.rotateY" 0;
+setAttr "index_metacarpal_r.rotateZ" 0;
+
+setAttr "index_01_r.rotateX" 0;
+setAttr "index_01_r.rotateY" 0;
+setAttr "index_01_r.rotateZ" 0;
+
+setAttr "index_02_r.rotateX" 0;
+setAttr "index_02_r.rotateY" 0;
+setAttr "index_02_r.rotateZ" 0;
+
+setAttr "index_03_r.rotateX" 0;
+setAttr "index_03_r.rotateY" 0;
+setAttr "index_03_r.rotateZ" 0;
+
+setAttr "thumb_01_r.rotateX" 0;
+setAttr "thumb_01_r.rotateY" 0;
+setAttr "thumb_01_r.rotateZ" 0;
+
+setAttr "thumb_02_r.rotateX" 0;
+setAttr "thumb_02_r.rotateY" 0;
+setAttr "thumb_02_r.rotateZ" 0;
+
+setAttr "thumb_03_r.rotateX" 0;
+setAttr "thumb_03_r.rotateY" 0;
+setAttr "thumb_03_r.rotateZ" 0;
+
+setAttr "thigh_l.rotateX" 0;
+setAttr "thigh_l.rotateY" 0;
+setAttr "thigh_l.rotateZ" 0;
+
+setAttr "thigh_r.rotateX" 0;
+setAttr "thigh_r.rotateY" 0;
+setAttr "thigh_r.rotateZ" -180;
